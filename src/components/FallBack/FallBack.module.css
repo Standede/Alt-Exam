@@ -1,0 +1,43 @@
+.FallBack{
+    background-image: linear-gradient(180deg, transparent , #000000 );
+    background-color: #E74C3C;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    transition: 1.5s ease-in-out;
+
+}
+
+.FallBack_container{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1000px;
+    width: 100%;
+    padding: 10px;
+}
+
+.FallBack h1{
+    font-size: 2.25rem;
+    font-weight: 100;
+}
+b{
+    font-weight: 200;
+}
+a{
+    opacity: 0.5;
+    font-size: 1.5rem;
+    transition: 0.5s;
+    cursor: pointer;
+    text-decoration: none;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+a:hover{
+    opacity: 1;
+}

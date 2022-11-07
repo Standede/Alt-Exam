@@ -1,0 +1,5 @@
+export {ReactComponent as AddIcon} from './addsquare.svg'
+export {ReactComponent as MinusIcon} from './minussquare.svg'
+export {ReactComponent as ResetIcon} from './arrowrotateright.svg'
+export {ReactComponent as BackIcon} from './arrowleft.svg'
+export {ReactComponent as LostCountIllustration} from './lostcount.svg'
